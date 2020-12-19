@@ -1,0 +1,100 @@
+.type-33 .nosidebar {
+  background: #000;
+  color: #fff;
+  padding: 30px;
+}
+.type-33 .swiper-container-horizontal {
+  padding-top: 50px;
+}
+.type-33 .swiper-slide img {
+  width: 100%;
+}
+.type-33 .swiper-button-next {
+  margin-right: 20px;
+}
+.type-33 .swiper-button-prev {
+  margin-left: 20px;
+}
+.type-33 .surfing .span-surfing {
+  margin: 20px 0;
+  font-size: 14px;
+  cursor: pointer;
+  color: #0de9df;
+}
+.type-33 .surfing p {
+  color: #858585;
+}
+.type-33 .surfing h1 {
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+.type-33 .surfing .end-component {
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.type-33 .surfing .end-component .icon {
+  color: #000;
+  font-weight: bold;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: 14px;
+  transform: translateX(-17px);
+  transition: 0.3s linear;
+}
+.type-33 .surfing .end-component .icon:hover {
+  transform: translateX(0);
+}
+.type-33 .surfing .end-component a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  font-size: 14px;
+}
+.type-33 .surfing .end-component a .fa {
+  margin-left: 10px;
+}
+.type-33 .surfing .end-component a .fa:hover {
+  color: #0de9df;
+}
+.type-33 .ourblog .iframe-blog {
+  width: 100%;
+  height: 460px;
+}
+.type-33 .ourblog .thumbnail {
+  border: none;
+  display: block;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border-radius: 4px;
+  transition: border 1s ease-in-out;
+  overflow: hidden;
+}
+.type-33 .ourblog .thumbnail img {
+  transition-duration: 0.5s;
+  width: 100%;
+}
+.type-33 .ourblog .thumbnail img:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+.type-33 .announcing {
+  margin: 100px 0;
+  position: relative;
+  background: #ffb434;
+  padding: 80px 70px;
+  color: #fff;
+}
+.type-33 .announcing h2 {
+  margin-right: 33%;
+  letter-spacing: 3px;
+}
+.type-33 .announcing .qodef-post-mark {
+  position: absolute;
+  width: 200px;
+  right: 20px;
+  bottom: 20px;
+}
+.type-33 .announcing .qodef-post-mark svg path {
+  fill: #f5aa29;
+}
