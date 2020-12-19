@@ -1,0 +1,31 @@
+.type-60 {
+  background: url('../images/h3-background-1.png') no-repeat top center/cover;
+  width: 100%;
+  height: auto;
+}
+.type-60 .container .row .col-md-5 {
+  margin-top: 100px;
+}
+.type-60 .container .row .col-md-5 h2 {
+  font-weight: 500;
+  letter-spacing: 5px;
+}
+.type-60 .container .row .col-md-5 p {
+  font-size: 18px;
+  font-family: "Josefin Sans", sans-serif;
+  color: #858585;
+}
+.type-60 .container .row .col-md-4 img {
+  max-width: 100%;
+}
+.type-60 .container .row .col-md-3 img {
+  max-width: 100%;
+  margin-top: 50px;
+}
+.type-60 .container .banner-img {
+  max-width: 100%;
+  margin: 30px 0;
+}
+.type-60 .container .banner-img img {
+  margin-left: 80px;
+}

@@ -1,0 +1,131 @@
+.type-22 {
+  .btn-header {
+    position: fixed;
+    bottom: 10%;
+    right: 0;
+    opacity: 0;
+    animation: btnHeader 0.5s linear 1s forwards;
+    .button-header1 {
+      background: #ef2853;
+      color: #fff;
+      box-shadow: 0 0 5px #858585;
+      border: none;
+      outline: none;
+      padding: 7px 11px 7px 12px;
+      font-size: 13px;
+      margin-bottom: 10px;
+      span {
+        padding-right: 5px;
+        line-height: 25px;
+        i {
+          font-size: 20px;
+        }
+      }
+    }
+    .button-header2 {
+      padding: 7px 6px;
+      background: #fff;
+      font-size: 13px;
+      outline: none;
+      border: none;
+      box-shadow: 0 0 5px #858585;
+      color: #ef2853;
+      span {
+        padding-right: 5px;
+        line-height: 25px;
+        i {
+          font-size: 20px;
+        }
+      }
+    }
+  }
+  .close-side-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    opacity: 0;
+    visibility: hidden;
+    background-color: rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+  }
+  .sidenavs {
+    height: 100%;
+    width: 0;
+    overflow-y: scroll;
+    position: fixed;
+    z-index: 3;
+    top: 0;
+    right: 0;
+    background-color: #fff;
+    transition: 0.3s;
+    .nav-heading {
+      padding: 20px 30px;
+      .flex-header {
+        display: flex;
+        .qode-text {
+          margin-left: 15px;
+          margin-top: 6px;
+        }
+      }
+      .related {
+        margin-top: 20px;
+        font-weight: bold;
+      }
+      .banner-popup {
+        margin-top: 20px;
+        img {
+          width: 100%;
+        }
+        .theme-purchase {
+          display: flex;
+          justify-content: space-between;
+          font-size: 12px;
+          .type {
+            color: #858585;
+          }
+        }
+      }
+    }
+  }
+  .btnClose {
+    visibility: hidden;
+    position: absolute;
+    bottom: 17%;
+    right: 300px;
+    z-index: 5;
+    button {
+      padding: 7px 12px;
+      background: #ef2853;
+      color: #fff;
+      border: none;
+      outline: none;
+    }
+  }
+  .btnCart {
+    visibility: hidden;
+    position: absolute;
+    bottom: 10%;
+    right: 300px;
+    z-index: 5;
+    button {
+      background: #fff;
+      outline: none;
+      border: none;
+      color: #ef2853;
+      padding: 7px 12px;
+    }
+  }
+}
+@keyframes btnHeader {
+  0% {
+    right: -100px;
+    opacity: 0;
+  }
+  100% {
+    right: 0;
+    opacity: 1;
+  }
+}

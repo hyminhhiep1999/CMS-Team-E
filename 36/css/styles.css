@@ -1,0 +1,106 @@
+.type-36 .blog {
+  background: #000;
+  color: #fff;
+  padding: 30px;
+}
+.type-36 .surfing img {
+  width: 100%;
+}
+.type-36 .surfing .span-surfing {
+  margin: 20px 0;
+  font-size: 14px;
+  cursor: pointer;
+  color: #0de9df;
+}
+.type-36 .surfing p {
+  color: #858585;
+}
+.type-36 .surfing h1 {
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+.type-36 .surfing .row {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.type-36 .surfing .row .col-lg-4 {
+  padding-right: 0px;
+  margin-bottom: 5px;
+}
+.type-36 .surfing .row .col-lg-8 {
+  padding-right: 0px;
+  margin-bottom: 5px;
+}
+.type-36 .surfing .end-component {
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.type-36 .surfing .end-component .tag a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  font-size: 14px;
+}
+.type-36 .surfing .end-component .tag a:hover {
+  color: #0de9df;
+}
+.type-36 .surfing .end-component .tag a .fa {
+  margin-left: 10px;
+}
+.type-36 .surfing .end-component .tag a .fa:hover {
+  color: #0de9df;
+}
+.type-36 .surfing .end-component .icon {
+  color: #000;
+  font-weight: bold;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: 14px;
+  transform: translateX(-17px);
+  transition: 0.3s linear;
+}
+.type-36 .surfing .end-component .icon:hover {
+  transform: translateX(0);
+}
+.type-36 .surfing .end-component a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  font-size: 14px;
+}
+.type-36 .surfing .end-component a .fa {
+  margin-left: 10px;
+}
+.type-36 .surfing .end-component a .fa:hover {
+  color: #0de9df;
+}
+.type-36 .surfing .conten2 .row {
+  margin-top: 70px;
+  background: #eeecec;
+}
+.type-36 .surfing .conten2 .row .col-md-3 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.type-36 .surfing .conten2 .row .col-md-9 h5 {
+  margin-top: 60px;
+}
+.type-36 .surfing .conten2 .row .col-md-9 p {
+  color: #000;
+}
+.type-36 .surfing .conten2 .row .col-md-9 i {
+  margin: 0 15px 0 0;
+}
+.type-36 .surfing .conten2 .row .col-md-9 a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  font-size: 14px;
+}
+.type-36 .surfing .conten2 .row .col-md-9 a .fa {
+  margin-left: 10px;
+}
+.type-36 .surfing .conten2 .row .col-md-9 a .fa:hover {
+  color: #0de9df;
+}
