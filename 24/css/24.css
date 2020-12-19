@@ -1,0 +1,92 @@
+.type-24 .product-list-right {
+  margin-top: 10px;
+}
+.type-24 .product-list-right .categories .serach-list form {
+  display: flex;
+  opacity: .7;
+}
+.type-24 .product-list-right .categories .serach-list form .form-control {
+  border: none;
+  color: #858585;
+  background-color: #dfdfdf;
+  outline: none;
+}
+.type-24 .product-list-right .categories .serach-list form button {
+  border: none;
+  color: #858585;
+  background-color: #dfdfdf;
+  outline: none;
+}
+.type-24 .product-list-right .categories-type h4 {
+  margin: 50px 0 20px 0;
+}
+.type-24 .product-list-right .categories-type .product-catelary {
+  padding-inline-start: 0px !important;
+  list-style-type: none;
+}
+.type-24 .product-list-right .categories-type .product-catelary li {
+  margin-top: 7px;
+}
+.type-24 .product-list-right .categories-type .product-catelary li a {
+  text-decoration: none;
+  color: #858585;
+}
+.type-24 .product-list-right .categories-type .product-catelary li a:hover {
+  color: #16d5cc;
+}
+.type-24 .product-list-right .relative-product h4 {
+  color: #222;
+  font-family: josefin sans, sans-serif;
+  margin: 25px 0;
+}
+.type-24 .product-list-right .relative-product ul {
+  padding-bottom: 20px;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (min-width: 320px) {
+  .type-24 .product-list-right .relative-product ul {
+    justify-content: unset;
+  }
+}
+.type-24 .product-list-right .relative-product .li-img .start-product {
+  background-color: #FAFAFA;
+  width: 100px;
+}
+.type-24 .product-list-right .relative-product .li-img .start-product img {
+  width: 100%;
+}
+.type-24 .product-list-right .relative-product li .type-product-start {
+  margin-left: 15px;
+}
+.type-24 .product-list-right .relative-product li .type-product-start span {
+  font-size: 15px;
+  line-height: 1.42em;
+  letter-spacing: .1em;
+  font-weight: bold;
+}
+.type-24 .product-list-right .relative-product li .type-product-start .product-rating {
+  display: flex;
+}
+.type-24 .product-list-right .relative-product li .type-product-start .product-rating i {
+  padding-right: 5px;
+  color: #16d5cc;
+}
+.type-24 .product-list-right .new {
+  margin-top: 100px;
+}
+.type-24 .product-list-right .new img {
+  max-width: 803px;
+  height: 225px;
+}
+.type-24 .product-list-right .sliathos {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.type-24 .product-list-right .sliathos img {
+  max-width: 803px;
+  height: 500px;
+}
