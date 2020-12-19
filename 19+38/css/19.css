@@ -1,0 +1,219 @@
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover {
+  text-decoration: none;
+}
+ul,
+ol,
+li {
+  list-style: none;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+button,
+select,
+input,
+textarea {
+  border: none;
+  outline: none;
+  background: none;
+}
+h4 {
+  color: #222;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.type-19 {
+  margin-top: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.type-19 .container .row .col-md-9 .col-content-left .heading-img img {
+  width: 100%;
+  height: auto;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation {
+  padding: 30px 0 40px;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation a {
+  color: #16d5cc;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation h2 {
+  letter-spacing: 2px;
+  color: #222;
+  font-weight: 700;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation p {
+  color: #858585;
+  font-size: 16px;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .qick-live {
+  color: #222;
+  padding: 20px 0;
+  font-size: 12px;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .qick-live span {
+  margin-left: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row {
+  width: 100%;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row >.col >img {
+  width: 100%;
+  margin-bottom: 5px;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row >.col >span {
+  font-size: 13px;
+  color: #16d5cc;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row .col p {
+  padding: 10px 0;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row .col .item-list {
+  padding: 10px 0;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row .col .item-list ul li {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px dashed #cdcdcd;
+  margin-bottom: 20px;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row .col .item-list ul li .row b {
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row .col .item-list ul li .row .tt-text {
+  font-size: 16px;
+  color: #858585;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row .col .btn-book-row {
+  padding: 20px 0;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row .col .btn-book-row a span {
+  padding: 16px 40px 16px;
+  border: 2px solid #222;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #222;
+  font-weight: 700;
+  transition: all .7s;
+}
+.type-19 .container .row .col-md-9 .col-content-left .content-surfing-vacation .content-buynow .row .col .btn-book-row a span:hover {
+  background: #222;
+  color: #fff;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .sidebar-img img {
+  width: 100%;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .about-ben-davidson-text {
+  padding: 10px 0 5px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .about-ben-davidson-text p {
+  color: #858585;
+  font-size: 16px;
+  line-height: 27px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .categories ul li {
+  padding: 3px 0;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .categories ul li a {
+  color: #858585;
+  font-size: 16px;
+  transition: all .5s;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .categories ul li a:hover {
+  color: #16d5cc;
+  text-decoration: none;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts {
+  padding: 30px 0 10px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul {
+  padding: 20px 0;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li {
+  position: relative;
+  margin-bottom: 50px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: -25px;
+  height: 1px;
+  border-bottom: 1px solid #e5e5e5;
+}
+@media (min-width: 320px) {
+  .type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item {
+    display: flex;
+  }
+}
+@media (min-width: 768px) {
+  .type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item {
+    display: unset;
+  }
+}
+@media (min-width: 1200px) {
+  .type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item {
+    display: flex;
+  }
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item .inner-img-banner {
+  margin-right: 10px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item .inner-img-banner a img {
+  width: 100%;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item .inner-banner-item .inner-content {
+  display: flex;
+  padding: 0 0 5px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item .inner-banner-item .inner-content .post-info-data a {
+  color: #16d5cc;
+  font-size: 14px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item .inner-banner-item .inner-content .post-info-data::after {
+  content: ' / ';
+  color: #16d5cc;
+  font-size: 14px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item .inner-banner-item .inner-content .post-info-caterogy {
+  margin-left: 5px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item .inner-banner-item .inner-content .post-info-caterogy a {
+  color: #16d5cc;
+  font-size: 14px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item .inner-banner-item .inner-title a {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #222;
+  font-weight: 700;
+  line-height: 16px;
+  transition: all .4s;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .latest-posts ul li .inner-item .inner-banner-item .inner-title a:hover {
+  color: #16d5cc;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .banner-heineken-img {
+  padding: 0 0 50px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .banner-heineken-img a img {
+  width: 100%;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .banner-skiathos-img {
+  padding: 0 0 10px;
+}
+.type-19 .container .row .col-md-3 .col-sidebar-right .banner-skiathos-img img {
+  width: 100%;
+}

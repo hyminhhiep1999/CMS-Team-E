@@ -1,0 +1,12 @@
+.type-46 .carousel .carousel-inner .carousel-item img {
+  width: 100%;
+  height: 800px;
+}
+.type-46 .carousel:before {
+  z-index: 110;
+  content: '';
+  background: url(../images/h1-rev-img-1.png) no-repeat center/cover;
+  width: 100%;
+  height: 100%;
+  background: red;
+}

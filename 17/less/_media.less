@@ -1,0 +1,55 @@
+@xs: 320px; //extra small
+@sm: 576px; // small
+@md: 768px; //medium small
+@lg: 992px; //large small
+@xl: 1200px; //extra large
+/////////////
+// re -> responsive 
+@mixin rs-xs {
+    @media (min-width: @xs) {
+        @content;
+    }
+}
+
+@mixin rs-sm {
+    @media (min-width: @sm) {
+        @content;
+    }
+}
+
+@mixin rs-md {
+    @media (min-width: @md) {
+        @content;
+    }
+}
+
+@mixin rs-lg {
+    @media (min-width: @lg) {
+        @content;
+    }
+}
+
+@mixin rs-xl {
+    @media (min-width: @xl) {
+        @content;
+    }
+}
+
+// @media (min-width: @md-992){
+//     @content;
+// }
+// @media (min-width: @sm-768){
+//     .sidebar{
+//         width: 96rem;
+//     }
+// }
+// @media (max-width: @md-992){
+//     .bottom{
+//         margin-bottom: 1.5rem;
+//     }
+// }
+// @media (max-width: @xs-480){
+//     .sidebar{
+//         padding: 0;
+//     }
+// }
