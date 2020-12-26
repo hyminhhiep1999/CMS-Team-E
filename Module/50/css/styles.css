@@ -1,0 +1,18 @@
+.type-50 .image img {
+  width: 100%;
+}
+.type-50 .image1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.type-50 .image1 img {
+  width: calc(96%);
+}
+.type-50 .image-bot {
+  margin-bottom: 30px;
+}
+@media screen and (max-width: 991px) {
+  .img-mobile {
+    margin-bottom: 30px;
+  }
+}
