@@ -1,0 +1,87 @@
+.type-4 {
+  background-color: #fafafa;
+}
+.type-4 .container .welcome-out {
+  text-align: center;
+  padding: 80px 0 !important;
+}
+.type-4 .container .welcome-out > p {
+  margin: 22px 0 !important;
+  color: #858585;
+  font-size: 17px;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+.type-4 .container .welcome-out h1 {
+  padding-top: 50px !important;
+  letter-spacing: 5px;
+  font-weight: 700;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-4 .container .welcome-out .email-subscribe {
+  padding-top: 30px !important;
+  padding-bottom: 70px !important;
+}
+.type-4 .container .welcome-out .email-subscribe form .input-from {
+  position: relative;
+}
+.type-4 .container .welcome-out .email-subscribe form .input-from .fa-envelope {
+  position: absolute;
+  left: 20%;
+  bottom: 6px;
+  font-size: 18px;
+}
+.type-4 .container .welcome-out .email-subscribe form .input-from input {
+  font-weight: 700;
+  font-size: 15px;
+  color: black;
+  background-color: transparent;
+  padding: 0px 50px 0px 40px !important;
+  width: 59%;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #302e2e;
+}
+.type-4 .container .welcome-out .email-subscribe form .input-from button {
+  border: none;
+}
+.type-4
+  .container
+  .welcome-out
+  .email-subscribe
+  form
+  .input-from
+  button
+  .fa-location-arrow {
+  position: absolute;
+  font-size: 15px;
+  right: 21%;
+  top: 4px;
+  background-color: transparent;
+}
+.type-4 .banner-for-wave {
+  background: url(../images/h2-img-1.jpg) no-repeat top center/cover;
+  background-attachment: fixed;
+}
+.type-4 .banner-for-wave .wave4 {
+  padding: 100px 0;
+  color: #fff;
+}
+.type-4 .banner-for-wave .wave4 h2 {
+  font-size: 150px;
+}
+.type-4 .banner-for-wave .wave4 h1 {
+  letter-spacing: 5px;
+}
+
+.type-4 .banner-for-wave .wave4 .watch-video {
+  display: flex;
+  align-items: center;
+}
+
+.type-4 .banner-for-wave .wave4 .watch-video i {
+  color: #11dbd2;
+  font-size: 80px;
+  margin-right: 10px;
+}

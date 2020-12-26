@@ -1,0 +1,28 @@
+/*
+Theme Name: CMS THEME 
+Theme URI: https://wordpress.org/themes/hayghe/
+Author: Nhom E
+Author URI: https://wordpress.org/
+Description: my design 
+
+Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog
+Text Domain: Hayghe
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* @import url('css/header.css'); */
+
+@import "css/1.css";
+@import "css/3.css";
+@import "css/4.css";
+@import "css/5.css";
+@import "css/6.css";
+@import "css/7.css";
+@import "css/15.css";
+@import "css/16.css";
+@import "css/31.css";
+@import "css/39.css";
+@import "css/49.css";
+@import "css/56.css";
