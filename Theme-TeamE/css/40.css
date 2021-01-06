@@ -1,0 +1,306 @@
+.number-text-h {
+  margin-bottom: 150px !important;
+}
+
+.type-40 .text-ride {
+  position: relative;
+}
+.type-40 .text-ride .text-smoothest {
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-40 .text-ride .text-smoothest h1 {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 1.2em;
+  letter-spacing: 0.08em;
+}
+.type-40 .text-ride .text-smoothest p {
+  max-width: 500px;
+  margin: 15px auto 10px;
+  color: #858585;
+  font-size: 18px;
+}
+.type-40 .text-ride .wave-theme {
+  position: relative;
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .theme-shop {
+  margin-top: 80px;
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .theme-shop .surfing-Home img {
+  width: 100%;
+  height: auto;
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .theme-shop .number-text-shf {
+  margin-bottom: 50px;
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .theme-shop .number-text-shf h3 {
+  position: absolute;
+  font-family: "Josefin Sans", sans-serif;
+  z-index: 2;
+  letter-spacing: 2px;
+  font-weight: bold;
+  margin-left: 3px;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .theme-shop
+  .number-text-shf
+  img {
+  position: absolute;
+  content: "";
+  transform: rotate(10deg);
+  max-height: 8%;
+  top: 90%;
+  left: 5%;
+  z-index: 1;
+}
+@media (max-width: 360px) {
+  .type-40
+    .text-ride
+    .wave-theme
+    .row
+    .col-md-6
+    .theme-shop
+    .number-text-shf
+    img {
+    top: 100%;
+    left: 5%;
+  }
+}
+@media (max-width: 768px) {
+  .type-40
+    .text-ride
+    .wave-theme
+    .row
+    .col-md-6
+    .theme-shop
+    .number-text-shf
+    img {
+    top: 91%;
+    left: 5%;
+  }
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .shop-Home {
+  margin-top: 150px;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .shop-Home
+  .surfing-Home-short
+  img {
+  width: 100%;
+  height: auto;
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .shop-Home .number-text-shh {
+  margin-bottom: 30px;
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .shop-Home .number-text-shh h3 {
+  position: absolute;
+  font-family: "Josefin Sans", sans-serif;
+  z-index: 2;
+  letter-spacing: 2px;
+  font-weight: bold;
+  margin-left: 3px;
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .shop-Home .number-text-shh img {
+  position: absolute;
+  content: "";
+  transform: rotate(10deg);
+  max-height: 8%;
+  top: 83%;
+  left: 5%;
+  z-index: 1;
+}
+@media (max-width: 360px) {
+  .type-40
+    .text-ride
+    .wave-theme
+    .row
+    .col-md-6
+    .shop-Home
+    .number-text-shh
+    img {
+    top: 93%;
+    left: 5%;
+  }
+}
+@media (max-width: 768px) {
+  .type-40
+    .text-ride
+    .wave-theme
+    .row
+    .col-md-6
+    .shop-Home
+    .number-text-shh
+    img {
+    top: 86%;
+    left: 5%;
+  }
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .wave-theme-shop {
+  margin-top: 80px;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .wave-theme-shop
+  .board-home
+  img {
+  width: 100%;
+  height: auto;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .wave-theme-shop
+  .number-text-shfa {
+  margin-bottom: 50px;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .wave-theme-shop
+  .number-text-shfa
+  h3 {
+  position: absolute;
+  font-family: "Josefin Sans", sans-serif;
+  z-index: 2;
+  letter-spacing: 2px;
+  font-weight: bold;
+  margin-left: 3px;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .wave-theme-shop
+  .number-text-shfa
+  img {
+  position: absolute;
+  content: "";
+  transform: rotate(10deg);
+  max-height: 8%;
+  top: 84%;
+  left: 5%;
+  z-index: 1;
+}
+@media (max-width: 360px) {
+  .type-40
+    .text-ride
+    .wave-theme
+    .row
+    .col-md-6
+    .wave-theme-shop
+    .number-text-shfa
+    img {
+    top: 91%;
+    left: 5%;
+  }
+}
+@media (max-width: 768px) {
+  .type-40
+    .text-ride
+    .wave-theme
+    .row
+    .col-md-6
+    .wave-theme-shop
+    .number-text-shfa
+    img {
+    top: 89%;
+    left: 5%;
+  }
+}
+.type-40 .text-ride .wave-theme .row .col-md-6 .canoeing-passion-home {
+  margin-bottom: 30px;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .canoeing-passion-home
+  .surfing-Home-shor
+  img {
+  width: 100%;
+  height: auto;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .canoeing-passion-home
+  .number-text-h {
+  margin-bottom: 20px;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .canoeing-passion-home
+  .number-text-h
+  h3 {
+  position: absolute;
+  font-family: "Josefin Sans", sans-serif;
+  z-index: 2;
+  letter-spacing: 2px;
+  font-weight: bold;
+  margin-left: 3px;
+}
+.type-40
+  .text-ride
+  .wave-theme
+  .row
+  .col-md-6
+  .canoeing-passion-home
+  .number-text-h
+  img {
+  position: absolute;
+  content: "";
+  transform: rotate(10deg);
+  max-height: 8%;
+  top: 87%;
+  left: 5%;
+  z-index: 1;
+}
+@media (max-width: 360px) {
+  .type-40
+    .text-ride
+    .wave-theme
+    .row
+    .col-md-6
+    .canoeing-passion-home
+    .number-text-h
+    img {
+    top: 95%;
+    left: 5%;
+  }
+}
+@media (max-width: 768px) {
+  .type-40
+    .text-ride
+    .wave-theme
+    .row
+    .col-md-6
+    .canoeing-passion-home
+    .number-text-h
+    img {
+    top: 93%;
+    left: 5%;
+  }
+}

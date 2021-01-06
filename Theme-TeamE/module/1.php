@@ -19,11 +19,11 @@
                             <a href="#">Pages</a>
                             <ul>
                                 <li><a href="<?php echo get_site_url() ?>/about">About Us</a></li>
-                                <li><a href="#">Our Crew</a></li>
+                                <li><a href="<?php echo get_site_url() ?>/ourcrew">Our Crew</a></li>
                                 <li class="drop-down">
                                     <a href="#">Our Service</a>
                                     <ul>
-                                        <li><a href="#">Service List</a></li>
+                                        <li><a href="<?php echo get_site_url() ?>/service">Service List</a></li>
                                         <li><a href="#">Service Single</a></li>
                                     </ul>
                                 </li>
