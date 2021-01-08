@@ -1,0 +1,154 @@
+.type-5 {
+  margin-top: 50px;
+}
+.grab-blow {
+  margin-top: 100px;
+}
+.type-5 .learn_with_us .title_with_us {
+  display: table;
+  text-align: center;
+  margin-top: 20px;
+  font-family: josefin sans, sans-serif;
+}
+.type-5 .learn_with_us .title_with_us .title_learn_us p {
+  display: inline-block;
+  font-size: 19px;
+  font-family: josefin sans, sans-serif;
+  margin: 12px 0;
+  font-weight: 400;
+  color: #858585;
+}
+.type-5 .learn_with_us .paddle {
+  position: relative;
+  text-align: center;
+}
+.type-5 .learn_with_us .paddle::before {
+  content: "w";
+  font-size: 600px;
+  font-family: "Niconne", cursive;
+  opacity: 0.1;
+  color: #999;
+  position: absolute;
+  top: -30%;
+  left: 38%;
+  transform: rotate(10deg);
+}
+@media (min-width: 360px) {
+  .type-5 .learn_with_us .paddle::before {
+    display: none;
+  }
+}
+@media (min-width: 768px) {
+  .type-5 .learn_with_us .paddle::before {
+    display: unset;
+    margin-top: 250px;
+    top: -35%;
+    left: 30%;
+  }
+}
+@media (min-width: 1024px) {
+  .type-5 .learn_with_us .paddle::before {
+    display: unset;
+    margin-top: 250px;
+    top: -30%;
+    left: 38%;
+  }
+}
+@media (min-width: 1200px) {
+  .type-5 .learn_with_us .paddle::before {
+    display: unset;
+    margin-top: unset;
+  }
+}
+.type-5 .learn_with_us .paddle .grab-paddle-left {
+  margin-bottom: 30px;
+}
+.type-5 .learn_with_us .paddle .grab-paddle-left .img-paddle-left {
+  text-align: right;
+  margin-bottom: 30px;
+}
+@media (min-width: 360px) {
+  .type-5 .learn_with_us .paddle .grab-paddle-left .img-paddle-left {
+    text-align: left;
+    margin-bottom: 30px;
+  }
+}
+.type-5 .learn_with_us .paddle .grab-paddle-left h4 {
+  text-align: right;
+  font-size: 20px;
+  font-family: josefin sans, sans-serif;
+  margin: 7px 0 0 0px;
+}
+@media (min-width: 360px) {
+  .type-5 .learn_with_us .paddle .grab-paddle-left h4 {
+    text-align: left;
+    font-size: 20px;
+    font-family: josefin sans, sans-serif;
+    margin: 7px 0 0 0px;
+  }
+}
+.type-5 .learn_with_us .paddle .grab-paddle-left .text-left1 {
+  text-align: right;
+  color: #858585;
+  margin-top: 15px;
+  font-family: josefin sans, sans-serif;
+}
+@media (min-width: 360px) {
+  .type-5 .learn_with_us .paddle .grab-paddle-left .text-left1 {
+    text-align: left;
+    color: #858585;
+    margin-top: 15px;
+    font-family: josefin sans, sans-serif;
+  }
+}
+@media (min-width: 360px) {
+  .type-5 .learn_with_us .paddle .grab-paddle-left {
+    margin-bottom: 20px;
+  }
+}
+.type-5 .learn_with_us .paddle .grab-paddle-right {
+  margin-bottom: 30px;
+}
+.type-5 .learn_with_us .paddle .grab-paddle-right .img-paddle-right {
+  text-align: left;
+  margin-bottom: 30px;
+}
+.type-5 .learn_with_us .paddle .grab-paddle-right h4 {
+  text-align: left;
+  font-size: 20px;
+  font-family: josefin sans, sans-serif;
+  margin: 7px 0 0 0px;
+}
+.type-5 .learn_with_us .paddle .grab-paddle-right .text-right1 {
+  text-align: left;
+  color: #858585;
+  margin-top: 15px;
+  font-family: josefin sans, sans-serif;
+}
+.type-5 .learn_with_us .paddle .grab-paddle-center img {
+  height: auto;
+  width: 100%;
+}
+@media (min-width: 360px) {
+  .type-5 .learn_with_us .paddle .grab-paddle-center img {
+    display: none;
+  }
+}
+@media (min-width: 768px) {
+  .type-5 .learn_with_us .paddle .grab-paddle-center img {
+    display: unset;
+    margin-top: 250px;
+  }
+}
+@media (min-width: 1024px) {
+  .type-5 .learn_with_us .paddle .grab-paddle-center img {
+    display: unset;
+    margin-top: 250px;
+  }
+}
+@media (min-width: 1200px) {
+  .type-5 .learn_with_us .paddle .grab-paddle-center img {
+    display: unset;
+    margin-top: unset;
+  }
+}

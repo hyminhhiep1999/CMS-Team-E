@@ -1,0 +1,107 @@
+* {
+  margin-top: 20px;
+}
+body {
+  background: url(../images/h1-background-img-2.jpg) no-repeat center/cover;
+}
+.type-54 .text-coaching {
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-54 .text-coaching h1 {
+  text-align: center;
+}
+.type-54 .text-coaching p {
+  text-align: center;
+  max-width: 842px;
+  font-size: 20px;
+  color: #a7a5a5;
+  margin: 0 auto 35px;
+}
+@media (max-width: 360px) {
+  .type-54 .text-coaching p {
+    max-width: 250px;
+  }
+}
+.type-54 .movement {
+  position: relative;
+}
+.type-54 .movement .row {
+  font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
+}
+.type-54 .movement .row img {
+  height: 59%;
+  width: 89%;
+}
+@media (max-width: 360px) {
+  .type-54 .movement .row img {
+    height: 55%;
+    width: 69%;
+  }
+}
+@media (max-width: 768px) {
+  .type-54 .movement .row img {
+    height: 55%;
+    width: 69%;
+  }
+}
+@media (max-width: 1024px) {
+  .type-54 .movement .row img {
+    height: 55%;
+    width: 69%;
+  }
+}
+.type-54 .movement .row h4 {
+  margin: 40px 0 10px 0;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-size: 17px;
+}
+.type-54 .movement .row p {
+  color: grey;
+  font-family: "Source Sans Pro", sans-serif;
+}
+@media (max-width: 360px) {
+  .type-54 .movement .row p {
+    margin-left: 60px;
+    max-width: 200px;
+  }
+}
+@media (max-width: 768px) {
+  .type-54 .movement .row p {
+    margin-left: 60px;
+    max-width: 200px;
+  }
+}
+@media (max-width: 1024px) {
+  .type-54 .movement .row p {
+    margin-left: 120px;
+    max-width: 200px;
+  }
+}
+.type-54 .movement .row .number-on-picter {
+  position: absolute;
+  background: url(../images/banner_circle.png) no-repeat center/cover;
+  width: 60px;
+  border-radius: 50%;
+  transform: rotate(30deg);
+  top: 4%;
+  left: 67%;
+}
+.type-54 .movement .row .number-on-picter p {
+  margin-bottom: 5px;
+  font-family: 'Yeon Sung', cursive;
+  font-size: 35px;
+  color: #fff;
+}
+@media (max-width: 360px) {
+  .type-54 .movement .row .number-on-picter p {
+    margin: 10px;
+  }
+}
+@media (max-width: 768px) {
+  .type-54 .movement .row .number-on-picter p {
+    margin: 10px;
+  }
+}

@@ -1,0 +1,347 @@
+* {
+  margin-top: 15px;
+}
+.type-35 .masonry {
+  background: #000;
+  color: #fff;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.type-35 .row .col-md-4 {
+  position: relative;
+}
+.type-35 .row .col-md-4 .presstone {
+  background-color: #ffb434;
+  padding: 50px 30px;
+  color: #fff;
+}
+.type-35 .row .col-md-4 .presstone h4 {
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-35 .row .col-md-4 .presstone p {
+  font-size: 13px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-35 .row .col-md-4 .presstone:before {
+  content: " '' ";
+  position: absolute;
+  font-family: "Secular One", sans-serif;
+  letter-spacing: 3px;
+  font-size: 350px;
+  color: gray;
+  top: -30%;
+  left: 32%;
+  z-index: 1;
+  opacity: 0.2;
+  transform: rotate(180deg);
+}
+@media (max-width: 768px) {
+  .type-35 .row .col-md-4 .presstone:before {
+    font-size: 200px;
+    top: -15%;
+    left: 10%;
+  }
+}
+@media (max-width: 1024px) {
+  .type-35 .row .col-md-4 .presstone:before {
+    font-size: 300px;
+    top: -20%;
+    left: 15%;
+  }
+}
+.type-35 .row .col-md-4 .img-her img {
+  max-width: 100%;
+  height: auto;
+}
+.type-35 .row .col-md-4 .img-her img:hover {
+  transform: scale(1.01);
+}
+.type-35 .row .col-md-4 .daybirdth-holiday {
+  overflow: hidden;
+}
+.type-35 .row .col-md-4 .daybirdth-holiday .day-of-birdth a {
+  font-family: "Josefin Sans", sans-serif;
+  text-decoration: none;
+  color: #0de9df;
+}
+.type-35 .row .col-md-4 .daybirdth-holiday h4 a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 17px;
+  color: #000;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.type-35 .row .col-md-4 .daybirdth-holiday p {
+  color: #969696;
+}
+.type-35 .row .col-md-4 .daybirdth-holiday .btnreadmore {
+  margin-bottom: 15px;
+  display: flex;
+  position: relative;
+  transition: all 0.3s;
+}
+.type-35 .row .col-md-4 .daybirdth-holiday .btnreadmore:hover {
+  margin-left: 22px;
+}
+.type-35 .row .col-md-4 .daybirdth-holiday .btnreadmore .iconfonttawesome {
+  margin-right: 15px;
+  position: absolute;
+  top: -5px;
+  left: -20px;
+  color: #16d5cc;
+}
+.type-35 .row .col-md-4 .daybirdth-holiday .btnreadmore .readmorepod a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 12px;
+  color: #000;
+  font-weight: 700;
+  text-decoration: none;
+}
+.type-35 .row .col-md-4 {
+  position: relative;
+}
+.type-35 .row .col-md-4 .world img {
+  margin-top: 0px;
+  max-width: 100%;
+  height: auto;
+}
+.type-35 .row .col-md-4 .world img:hover {
+  transform: scale(1.01);
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy {
+  overflow: hidden;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .day-of-birdth a {
+  font-family: "Josefin Sans", sans-serif;
+  text-decoration: none;
+  color: #0de9df;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy h4 a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 17px;
+  color: #000;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy p {
+  color: #969696;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .btnreadmore {
+  margin-bottom: 15px;
+  display: flex;
+  position: relative;
+  transition: all 0.3s;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .btnreadmore:hover {
+  margin-left: 22px;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .btnreadmore .iconfonttawesome {
+  margin-right: 15px;
+  position: absolute;
+  top: -5px;
+  left: -20px;
+  color: #16d5cc;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .btnreadmore .readmorepod a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 12px;
+  color: #000;
+  font-weight: 700;
+  text-decoration: none;
+}
+.type-35 .row .col-md-4 .presstonee {
+  background-color: #f7f6f6;
+  padding: 60px 30px;
+  color: #000;
+}
+.type-35 .row .col-md-4 .presstonee h4 {
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-35 .row .col-md-4 .presstonee p {
+  font-size: 13px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-35 .row .col-md-4 .presstonee:before {
+  content: " '' ";
+  position: absolute;
+  font-family: "Secular One", sans-serif;
+  letter-spacing: 3px;
+  font-size: 320px;
+  color: #969696;
+  top: 45%;
+  left: 32%;
+  z-index: 1;
+  opacity: 0.2;
+  transform: rotate(180deg);
+}
+@media (max-width: 768px) {
+  .type-35 .row .col-md-4 .presstonee:before {
+    font-size: 250px;
+    top: 50%;
+    left: 15%;
+  }
+}
+@media (max-width: 1024px) {
+  .type-35 .row .col-md-4 .presstonee:before {
+    font-size: 250px;
+    top: 50%;
+    left: 15%;
+  }
+}
+.type-35 .row .col-md-4 {
+  position: relative;
+}
+.type-35 .row .col-md-4 .announcing {
+  background-color: #0de9df;
+  padding: 50px 30px;
+  color: #fff;
+}
+.type-35 .row .col-md-4 .announcing h4 {
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-35 .row .col-md-4 .announcing p {
+  font-size: 13px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-35 .row .col-md-4 .announcing:before {
+  content: " '' ";
+  position: absolute;
+  font-family: "Secular One", sans-serif;
+  letter-spacing: 3px;
+  font-size: 350px;
+  color: gray;
+  top: -30%;
+  left: 32%;
+  z-index: 1;
+  opacity: 0.2;
+  transform: rotate(180deg);
+}
+@media (max-width: 768px) {
+  .type-35 .row .col-md-4 .announcing:before {
+    font-size: 250px;
+    top: -15%;
+    left: 15%;
+  }
+}
+@media (max-width: 1024px) {
+  .type-35 .row .col-md-4 .announcing:before {
+    font-size: 300px;
+    top: -20%;
+    left: 15%;
+  }
+}
+.type-35 .row .col-md-4 .img-her img {
+  max-width: 100%;
+  height: auto;
+}
+.type-35 .row .col-md-4 .img-her img:hover {
+  transform: scale(1.01);
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy {
+  overflow: hidden;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .day-of-birdth a {
+  font-family: "Josefin Sans", sans-serif;
+  text-decoration: none;
+  color: #0de9df;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy h4 a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 17px;
+  color: #000;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy p {
+  color: #969696;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .btnreadmore {
+  margin-bottom: 15px;
+  display: flex;
+  position: relative;
+  transition: all 0.3s;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .btnreadmore:hover {
+  margin-left: 22px;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .btnreadmore .iconfonttawesome {
+  margin-right: 15px;
+  position: absolute;
+  top: -5px;
+  left: -20px;
+  color: #16d5cc;
+}
+.type-35 .row .col-md-4 .daybirdth-holidayy .btnreadmore .readmorepod a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 12px;
+  color: #000;
+  font-weight: 700;
+  text-decoration: none;
+}
+.type-35 .loadmore {
+  text-align: center;
+}
+.type-35 .loadmore button {
+  text-align: center;
+  padding: 5px 15px;
+  background-color: #fff;
+  border: 2px solid #0de9df;
+  margin: 30px 0;
+  background: #0de9df;
+}
+.type-35 .loadmore .find-out-more {
+  position: relative;
+  padding: 12px 50px;
+  color: #fff;
+  font-weight: bold;
+  background-color: transparent;
+  border: 2px solid #0de9df;
+  cursor: pointer;
+  font-size: 13px;
+  letter-spacing: 1px;
+  z-index: 3;
+  overflow: hidden;
+  border-radius: 0;
+  background: #0de9df;
+}
+.type-35 .loadmore .find-out-more:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: block;
+  width: 515px;
+  height: 126px;
+  background: url("data:image/svg+xml,\a %3Csvg xmlns=%22http://www.w3.org/2000/svg%22 xmlns:xlink=%22http://www.w3.org/1999/xlink%22 x=%220px%22 y=%220px%22 width=%22172px%22 height=%22126px%22 viewBox=%220 0 172 125.7%22 enable-background=%22new 0 0 172 125.7%22 xml:space=%22preserve%22%3E\a %3Cpath fill=%22%23000000%22 d=%22M173,22.7c-33.9,0-44.7-14.1-88.4-14.1c-43.6,0-54.5,14.1-86,14.1V126l174.4-0.3 C173,125.7,173,28.7,173,22.7z%22/%3E\a %3C/svg%3E");
+  background-repeat: round;
+  z-index: -1;
+  -webkit-transform: translateY(100%);
+  -ms-transform: translateY(100%);
+  transform: translateY(100%);
+  -webkit-transition: -webkit-transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: -webkit-transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -o-transition: transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    -webkit-transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+.type-35 .loadmore .find-out-more:hover:after {
+  background: #0de9df;
+  -webkit-transform: translateY(35%);
+  -ms-transform: translateY(35%);
+  transform: translateY(35%);
+  -webkit-animation: auto-wave 7.5s cubic-bezier(0.36, 0.45, 0.63, 0.53)
+    infinite;
+  animation: auto-wave 7.5s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
+}
+.type-35 .loadmore .find-out-more:hover {
+  color: #fff;
+  background-color: transparent;
+  border-color: #0de9df;
+}
