@@ -1,0 +1,301 @@
+body {
+  font-family: source sans pro, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.588em;
+  color: #858585;
+  background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden !important;
+}
+.type-55 .col-md-3 {
+  padding: 10px;
+  border-bottom: #858585 solid 1px;
+}
+.type-55 .text-2 {
+  text-align: right;
+  color: #ffb434;
+}
+.type-55 a {
+  color: #16d5cc;
+  text-align: left;
+}
+.type-55 .space {
+  height: 16px;
+}
+.type-55 .row .col-md-6 {
+  position: relative;
+}
+.type-55 .row .col-md-6 .presstone {
+  background-color: #FFB434;
+  padding: 50px 30px;
+  color: #fff;
+}
+.type-55 .row .col-md-6 .presstone h4 {
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-55 .row .col-md-6 .presstone p {
+  font-size: 13px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-55 .row .col-md-6 .presstone:before {
+  content: " '' ";
+  position: absolute;
+  font-family: 'Secular One', sans-serif;
+  letter-spacing: 3px;
+  font-size: 350px;
+  color: gray;
+  top: -30%;
+  left: 32%;
+  z-index: 1;
+  opacity: 0.2;
+  transform: rotate(180deg);
+}
+@media (max-width: 768px) {
+  .type-55 .row .col-md-6 .presstone:before {
+    font-size: 200px;
+    top: -15%;
+    left: 10%;
+  }
+}
+@media (max-width: 1024px) {
+  .type-55 .row .col-md-6 .presstone:before {
+    font-size: 300px;
+    top: -20%;
+    left: 15%;
+  }
+}
+.type-55 .row .col-md-6 .img-her img {
+  max-width: 100%;
+  height: auto;
+}
+.type-55 .row .col-md-6 .img-her img:hover {
+  transform: scale(1.01);
+}
+.type-55 .row .col-md-6 .daybirdth-holiday {
+  overflow: hidden;
+}
+.type-55 .row .col-md-6 .daybirdth-holiday .day-of-birdth a {
+  font-family: "Josefin Sans", sans-serif;
+  text-decoration: none;
+  color: #0DE9DF;
+}
+.type-55 .row .col-md-6 .daybirdth-holiday h4 a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 17px;
+  color: #000;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.type-55 .row .col-md-6 .daybirdth-holiday p {
+  color: #969696;
+}
+.type-55 .row .col-md-6 .daybirdth-holiday .btnreadmore {
+  margin-bottom: 15px;
+  display: flex;
+  position: relative;
+  transition: all .3s;
+}
+.type-55 .row .col-md-6 .daybirdth-holiday .btnreadmore:hover {
+  margin-left: 22px;
+}
+.type-55 .row .col-md-6 .daybirdth-holiday .btnreadmore .iconfonttawesome {
+  margin-right: 15px;
+  position: absolute;
+  top: -5px;
+  left: -20px;
+  color: #16d5cc;
+}
+.type-55 .row .col-md-6 .daybirdth-holiday .btnreadmore .readmorepod a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 12px;
+  color: #000;
+  font-weight: 700;
+  text-decoration: none;
+}
+.type-55 .row .col-md-6 {
+  position: relative;
+}
+.type-55 .row .col-md-6 .world img {
+  max-width: 100%;
+  height: auto;
+}
+.type-55 .row .col-md-6 .world img:hover {
+  transform: scale(1.01);
+}
+.type-55 .row .col-md-6 .daybirdth-holidayy {
+  overflow: hidden;
+}
+.type-55 .row .col-md-6 .daybirdth-holidayy .day-of-birdth a {
+  font-family: "Josefin Sans", sans-serif;
+  text-decoration: none;
+  color: #0DE9DF;
+}
+.type-55 .row .col-md-6 .daybirdth-holidayy h4 a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 17px;
+  color: #000;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.type-55 .row .col-md-6 .daybirdth-holidayy p {
+  color: #969696;
+}
+.type-55 .row .col-md-6 .daybirdth-holidayy .btnreadmore {
+  margin-bottom: 15px;
+  display: flex;
+  position: relative;
+  transition: all .3s;
+}
+.type-55 .row .col-md-6 .daybirdth-holidayy .btnreadmore:hover {
+  margin-left: 22px;
+}
+.type-55 .row .col-md-6 .daybirdth-holidayy .btnreadmore .iconfonttawesome {
+  margin-right: 15px;
+  position: absolute;
+  top: -5px;
+  left: -20px;
+  color: #16d5cc;
+}
+.type-55 .row .col-md-6 .daybirdth-holidayy .btnreadmore .readmorepod a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 12px;
+  color: #000;
+  font-weight: 700;
+  text-decoration: none;
+}
+.type-55 .row .col-md-6 .presstonee {
+  background-color: #F7F6F6;
+  padding: 60px 30px;
+  color: #000;
+}
+.type-55 .row .col-md-6 .presstonee h4 {
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-55 .row .col-md-6 .presstonee p {
+  font-size: 13px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-55 .row .col-md-6 .presstonee:before {
+  content: " '' ";
+  position: absolute;
+  font-family: 'Secular One', sans-serif;
+  letter-spacing: 3px;
+  font-size: 320px;
+  color: #969696;
+  top: 45%;
+  left: 32%;
+  z-index: 1;
+  opacity: 0.2;
+  transform: rotate(180deg);
+}
+@media (max-width: 768px) {
+  .type-55 .row .col-md-6 .presstonee:before {
+    font-size: 250px;
+    top: 50%;
+    left: 15%;
+  }
+}
+@media (max-width: 1024px) {
+  .type-55 .row .col-md-6 .presstonee:before {
+    font-size: 250px;
+    top: 50%;
+    left: 15%;
+  }
+}
+.type-55 .row .col-md-3 {
+  position: relative;
+}
+.type-55 .row .col-md-3 .announcing {
+  background-color: #0DE9DF;
+  padding: 50px 30px;
+  color: #fff;
+}
+.type-55 .row .col-md-3 .announcing h4 {
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-55 .row .col-md-3 .announcing p {
+  font-size: 13px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.type-55 .row .col-md-3 .announcing:before {
+  content: " '' ";
+  position: absolute;
+  font-family: 'Secular One', sans-serif;
+  letter-spacing: 3px;
+  font-size: 350px;
+  color: gray;
+  top: -30%;
+  left: 32%;
+  z-index: 1;
+  opacity: 0.2;
+  transform: rotate(180deg);
+}
+@media (max-width: 768px) {
+  .type-55 .row .col-md-3 .announcing:before {
+    font-size: 250px;
+    top: -15%;
+    left: 15%;
+  }
+}
+@media (max-width: 1024px) {
+  .type-55 .row .col-md-3 .announcing:before {
+    font-size: 300px;
+    top: -20%;
+    left: 15%;
+  }
+}
+.type-55 .row .col-md-3 .img-her img {
+  max-width: 100%;
+  height: auto;
+}
+.type-55 .row .col-md-3 .img-her img:hover {
+  transform: scale(1.01);
+}
+.type-55 .row .col-md-3 .daybirdth-holidayy {
+  overflow: hidden;
+}
+.type-55 .row .col-md-3 .daybirdth-holidayy .day-of-birdth a {
+  font-family: "Josefin Sans", sans-serif;
+  text-decoration: none;
+  color: #0DE9DF;
+}
+.type-55 .row .col-md-3 .daybirdth-holidayy h4 a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 17px;
+  color: #000;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.type-55 .row .col-md-3 .daybirdth-holidayy p {
+  color: #969696;
+}
+.type-55 .row .col-md-3 .daybirdth-holidayy .btnreadmore {
+  margin-bottom: 15px;
+  display: flex;
+  position: relative;
+  transition: all .3s;
+}
+.type-55 .row .col-md-3 .daybirdth-holidayy .btnreadmore:hover {
+  margin-left: 22px;
+}
+.type-55 .row .col-md-3 .daybirdth-holidayy .btnreadmore .iconfonttawesome {
+  margin-right: 15px;
+  position: absolute;
+  top: -5px;
+  left: -20px;
+  color: #16d5cc;
+}
+.type-55 .row .col-md-3 .daybirdth-holidayy .btnreadmore .readmorepod a {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 12px;
+  color: #000;
+  font-weight: 700;
+  text-decoration: none;
+}
